@@ -14,10 +14,14 @@ Features
 Usage
 -----
 
+* TODO
+
 Launching the app
 ~~~~~~~~~~~~~~~~~
 
-`Kivy`_ is compatible with Python 2 as well as Python 3::
+Install Kivy 1.8.0 or higher.
+
+`Kivy`_ is compatible with Python 2 as well as Python 3. But Caspar Pilot is developed using Python 2::
 
     cd casparpilot
     python main.py
@@ -25,7 +29,7 @@ Launching the app
 Running the testsuite
 ~~~~~~~~~~~~~~~~~~~~~
 
-Run its testsuite either with Python3::
+Run its testsuite either with Python::
 
     cd casparpilot
     python -m unittest discover
