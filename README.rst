@@ -29,7 +29,10 @@ Caspar Pilot is built in Python using the Kivy Natural User Interface library. I
 Running the testsuite
 ~~~~~~~~~~~~~~~~~~~~~
 
-Run its testsuite either with Python::
+*TODO*
+Please note that there are no tests written yet.
+
+Run the testsuite either with Python::
 
     cd casparpilot
     python -m unittest discover
