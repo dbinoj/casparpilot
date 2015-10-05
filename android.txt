@@ -1,0 +1,3 @@
+title=Caspar Pilot
+author=Binoj David
+orientation=landscape
