@@ -3,14 +3,14 @@
 
 import unittest
 
-from casparpilot.casparpilotapp import CasparpilotApp
+from casparpilot.casparpilotapp import CasparPilotApp
 
 
-class TestCasparpilotApp(unittest.TestCase):
-    """TestCase for CasparpilotApp.
+class TestCasparPilotApp(unittest.TestCase):
+    """TestCase for CasparPilotApp.
     """
     def setUp(self):
-        self.app = CasparpilotApp()
+        self.app = CasparPilotApp()
 
     def test_name(self):
         self.assertEqual(self.app.name, 'casparpilot')
