@@ -19,7 +19,7 @@ Usage
 Launching the app
 ~~~~~~~~~~~~~~~~~
 
-Install Kivy 1.8.0 or higher.
+Caspar Pilot is built in Python using the Kivy Natural User Interface library. Install Kivy 1.8.0 or higher.
 
 `Kivy`_ is compatible with Python 2 as well as Python 3. But Caspar Pilot is developed using Python 2::
 
