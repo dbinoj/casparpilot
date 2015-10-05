@@ -37,16 +37,6 @@ Run the testsuite either with Python::
     cd casparpilot
     python -m unittest discover
 
-Or with `nose`_::
-
-    cd casparpilot
-    nosetests
-
-Or with `py.test`_::
-
-    cd casparpilot
-    py.test
-
 Deploying to Android
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -68,5 +58,3 @@ Report bugs at https://github.com/dbinoj/casparpilot/issues.
 .. _`Kivy Launcher`: http://kivy.org/docs/guide/packaging-android.html#packaging-your-application-for-the-kivy-launcher
 .. _`Kivy`: https://github.com/kivy/kivy
 .. _`MIT License`: http://opensource.org/licenses/MIT
-.. _`nose`: https://github.com/nose-devs/nose/
-.. _`py.test`: http://pytest.org/latest/
