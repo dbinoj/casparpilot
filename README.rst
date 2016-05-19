@@ -2,7 +2,7 @@
 Caspar Pilot
 =============================
 
-A client for CasparCG playout server. 
+A client for CasparCG playout server. Started with an aim of having a single client for scheduling, news, sports broadcast, etc.
 
 
 Features
